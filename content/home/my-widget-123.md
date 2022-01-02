@@ -2,7 +2,7 @@
 widget: Home
 widget_id: Jinming's Group
 headless: true
-weight: 10
+weight: 1
 active: true
 design:
   columns: "2"
