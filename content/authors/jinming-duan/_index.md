@@ -1,5 +1,5 @@
 ---
-title: Jinming Duan
+title: Wenqi Lu
 role: Turing Fellow and Lecturer in Computer Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
