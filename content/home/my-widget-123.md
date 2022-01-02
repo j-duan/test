@@ -1,6 +1,6 @@
 ---
-widget: Jinming's Group
-widget_id: my-widget-123
+widget: Home
+widget_id: Jinming's Group
 headless: true
 weight: 10
 active: true
